@@ -4,9 +4,9 @@
     "url": "https://tgdk.se",
     "icon": "https://favicons.githubusercontent.com/tgdk.se",
     "slug": "tgdk-se",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1137,
     "timeMonth": 751,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   },
   {
     "name": "booking.tgdk.se",
     "url": "https://booking.tgdk.se",
     "icon": "https://favicons.githubusercontent.com/booking.tgdk.se",
     "slug": "booking-tgdk-se",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,24 +35,28 @@
     "timeWeek": 574,
     "timeMonth": 595,
     "timeYear": 627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   },
   {
     "name": "allaktivitetsdagen.tgdk.se",
     "url": "https://allaktivitetsdagen.tgdk.se",
     "icon": "https://favicons.githubusercontent.com/allaktivitetsdagen.tgdk.se",
     "slug": "allaktivitetsdagen-tgdk-se",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1075,
-    "timeDay": 982,
-    "timeWeek": 1517,
-    "timeMonth": 1180,
-    "timeYear": 1075,
-    "dailyMinutesDown": {}
+    "time": 1097,
+    "timeDay": 2943,
+    "timeWeek": 1940,
+    "timeMonth": 1296,
+    "timeYear": 1097,
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   }
 ]
