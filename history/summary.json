@@ -2,7 +2,7 @@
   {
     "name": "tgdk.se",
     "url": "https://tgdk.se",
-    "icon": "https://favicons.githubusercontent.com/tgdk.se",
+    "icon": "https://icons.duckduckgo.com/ip3/tgdk.se.ico",
     "slug": "tgdk-se",
     "status": "up",
     "uptime": "99.99%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 980,
-    "timeDay": 758,
-    "timeWeek": 562,
-    "timeMonth": 1525,
-    "timeYear": 980,
+    "time": 978,
+    "timeDay": 568,
+    "timeWeek": 565,
+    "timeMonth": 1375,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2022-08-23": 19
     }
@@ -22,7 +22,7 @@
   {
     "name": "booking.tgdk.se",
     "url": "https://booking.tgdk.se",
-    "icon": "https://favicons.githubusercontent.com/booking.tgdk.se",
+    "icon": "https://icons.duckduckgo.com/ip3/booking.tgdk.se.ico",
     "slug": "booking-tgdk-se",
     "status": "up",
     "uptime": "99.99%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 856,
-    "timeDay": 759,
-    "timeWeek": 597,
-    "timeMonth": 1411,
-    "timeYear": 856,
+    "time": 855,
+    "timeDay": 579,
+    "timeWeek": 602,
+    "timeMonth": 1268,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2022-08-23": 19
     }
@@ -42,7 +42,7 @@
   {
     "name": "allaktivitetsdagen.tgdk.se",
     "url": "https://allaktivitetsdagen.tgdk.se",
-    "icon": "https://favicons.githubusercontent.com/allaktivitetsdagen.tgdk.se",
+    "icon": "https://icons.duckduckgo.com/ip3/allaktivitetsdagen.tgdk.se.ico",
     "slug": "allaktivitetsdagen-tgdk-se",
     "status": "up",
     "uptime": "99.99%",
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1348,
-    "timeDay": 1286,
-    "timeWeek": 950,
-    "timeMonth": 1966,
-    "timeYear": 1348,
+    "time": 1346,
+    "timeDay": 956,
+    "timeWeek": 961,
+    "timeMonth": 1798,
+    "timeYear": 1346,
     "dailyMinutesDown": {
       "2022-08-23": 19
     }
