@@ -44,18 +44,19 @@
     "url": "https://allaktivitetsdagen.tgdk.se",
     "icon": "https://icons.duckduckgo.com/ip3/allaktivitetsdagen.tgdk.se.ico",
     "slug": "allaktivitetsdagen-tgdk-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1277,
-    "timeDay": 999,
-    "timeWeek": 957,
-    "timeMonth": 919,
-    "timeYear": 1277,
+    "time": 1274,
+    "timeDay": 768,
+    "timeWeek": 904,
+    "timeMonth": 908,
+    "timeYear": 1274,
     "dailyMinutesDown": {
+      "2022-11-19": 0,
       "2022-08-23": 19
     }
   }
